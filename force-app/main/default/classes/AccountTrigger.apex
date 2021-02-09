@@ -19,3 +19,7 @@ method3(){
 method4(){
     //do something
 }
+
+method5(){
+    //do something
+}
