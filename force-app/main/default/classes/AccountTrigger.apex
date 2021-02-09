@@ -15,3 +15,7 @@ method2(){
 method3(){
     //do something
 }
+
+method4(){
+    //do something
+}
