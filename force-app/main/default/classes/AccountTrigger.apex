@@ -1,3 +1,17 @@
 //code
 //sample chnages
 ///new text added
+
+// edited in sprint 5
+
+method1(){
+    //do something
+}
+
+method2(){
+    //do something
+}
+
+method3(){
+    //do something
+}
